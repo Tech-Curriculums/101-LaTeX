@@ -7,7 +7,8 @@ Why learn LaTex?
 
 -- from LaTeX's [website](http://www.latex-project.org/)
 
-While getting started used to be difficult, these days you will never have to start from scratch. Learn how to utilize templates and free online editing-software to publish your scientific contributions.
+These days learning LaTeX is very fast, and you will never have to start from scratch. 
+Learn how to utilize templates and free online editing-software to publish your scientific contributions.
 
 ### Template/Editing-Sites
 
